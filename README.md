@@ -8,3 +8,5 @@ in my case, i am using NVIDIA overlay so alt+f10 works, but you may need to chan
 the libraries you need are SpeechRecognition, pyttsx3, fuzzywuzzy, pygame, os and keyboard
 to install these you can just run "pip install" and then just put the name of the library
 and to update it you can just run "pip install --upgrade" adn then put the name of the library
+
+also make sure that you are running the latest version of python
